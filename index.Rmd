@@ -2,7 +2,7 @@
 title: "Joseph Kim: Master of Data Science"
 output: 
   html_document:
-    toc: true
+    toc: false
     toc_float: true
     theme: united
     
