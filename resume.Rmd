@@ -1,0 +1,33 @@
+---
+title: "Joseph Kim: Resume"
+output: 
+  html_document:
+    toc: false
+    toc_float: false
+    theme: united
+    
+---
+
+
+### Education
+
+**COLUMBIA UNIVERISTY**, New York, NY 
+
+  -Master’s in Public Health
+      -Sociomedical Sciences (Certificate in Applied Biostatistics). 
+      
+  -Sep 2020 - Present
+  
+  -GPA: 3.97 
+
+
+
+**WESLEYAN UNIVERSITY**, Middletown, CT 
+
+  -B.A. Biology, Science in Society (May 2018)
+
+  -August 2014 – May 2018 
+  
+  -GPA: 3.70 
+
+### Work Experience

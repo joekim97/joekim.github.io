@@ -1,0 +1,30 @@
+---
+title: "About Joseph Kim"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: united
+---
+
+### Let me introduce myself...
+
+<center> <img src="hi.gif" style="width:50%">
+<br>
+<center>
+
+My name is Joseph Kim. I am a second year MPH student at the Mailman School of Public Health. I am apart of the SMS department, with a certificate in Applied Biostatistics. 
+
+
+<center><img src="mailman.png" style="width:60%">
+<br>
+<center>
+
+I am originally from New Jersey, right across the George Washington Bridge. I went to undergrad at Wesleyan Univeristy in Middletown,CT and also spent time as a public school teacher in New Haven, CT. 
+
+
+<center><img src="gwb.jpg" style="width:75%">
+<br>
+<center>
+
+I am intereted in a career in data science, specifically in regards to quantitative research resolving nutrition and obesity. 
