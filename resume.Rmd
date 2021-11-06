@@ -2,7 +2,7 @@
 title: "Joseph Kim: Resume"
 output: 
   html_document:
-    toc: false
+    toc: true
     toc_float: false
     theme: united
     
