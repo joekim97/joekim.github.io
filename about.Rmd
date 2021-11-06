@@ -7,11 +7,13 @@ output:
     theme: united
 ---
 
+-----
+
 ### Let me introduce myself...
   
 &nbsp;
 
-<center> <img src="hi.gif" style="width:50%">
+<center> <img src="hi.gif" style="width:35%">
 <br>
 <center>
 
@@ -19,7 +21,7 @@ output:
 
 My name is Joseph Kim. I am a second year MPH student at the Mailman School of Public Health. I am apart of the SMS department, with a certificate in Applied Biostatistics. 
 
-<center><img src="mailman.png" style="width:60%">
+<center><img src="mailman.png" style="width:35%">
 <br>
 <center>
 
@@ -28,7 +30,7 @@ I am originally from New Jersey, right across the George Washington Bridge. I we
   
 &nbsp;
 
-<center><img src="gwb.jpg" style="width:75%">
+<center><img src="gwb.jpg" style="width:35%">
 <br>
 <center>
 
