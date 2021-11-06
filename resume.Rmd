@@ -8,26 +8,31 @@ output:
     
 ---
 
+-----
 
 ### Education
+  
+&nbsp;
 
 **COLUMBIA UNIVERISTY**, New York, NY 
 
-  -Master’s in Public Health
+  * Master’s in Public Health
       -Sociomedical Sciences (Certificate in Applied Biostatistics). 
       
-  -Sep 2020 - Present
+  * Sep 2020 - Present
   
-  -GPA: 3.97 
-
-
+  * GPA: 3.97
+  
+&nbsp;
 
 **WESLEYAN UNIVERSITY**, Middletown, CT 
 
-  -B.A. Biology, Science in Society (May 2018)
+  * B.A. Biology, Science in Society (May 2018)
 
-  -August 2014 – May 2018 
+  * August 2014 – May 2018 
   
-  -GPA: 3.70 
+  * GPA: 3.70 
+
+-----
 
 ### Work Experience

@@ -9,12 +9,12 @@ output:
 ---
 
 ----------
+&nbsp;
 
-If you are looking for a true master in data science, you have found the right website. 
+If you are looking for a true master in data science, you have found the right website. Follow the provided links to get to where you need to go!
 
-Follow the provided links to get to where you need to go!
+&nbsp;
 
-
-<center><img src="stephcurry.gif" style="width:75%">
+<center><img src="stephcurry.gif" style="width:60%">
 <br>
 <center>
